@@ -1,0 +1,6 @@
+For running java file steps :
+
+Step 1 : Open cmd
+Step 2 : GO to file destination
+Step 3 : Compile file -> javac day-1_p1.java
+Step 4 : Run file -> java One
