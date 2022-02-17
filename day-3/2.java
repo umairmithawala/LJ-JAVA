@@ -1,6 +1,6 @@
 // Constructor program 
 class peracons{
-
+	
 	int id,sem;
 
 	//default cons
