@@ -1,25 +1,47 @@
-class p1{
+/*
+
+    Objective : getDetials Using Function
+    Author : Umair
+    Date : 14-02-22
+
+*/
+
+//import scanner librery
+import java.util.Scanner;
+
+class Student{
 
 	int id;
 	String name = new String();
 	int sem;
 
+	// create function for code consume
+	void getDetails()
+	{
+
+		Scanner sc = new Scanner(System.in);
+
+		System.out.print("Enter Id : ");
+     	id = sc.nextInt();
+
+     	System.out.print("Enter Name : ");
+     	name = sc.next();
+
+     	System.out.print("Enter Sem : ");
+     	sem = sc.nextInt();
+
+	}
+
 	public static void main(String[] args) {
-		
-		//create obj of class	
-		p1 s1 = new  p1();
-		p1 s2 = new  p1();
-		p1 s3 = new  p1();
+			
+		Student s1 = new  Student();
 
-		//store value in object variable
-		s1.id = 1;
-		s1.name = "xyz";		
-		s1.sem = 2;
+		//call function
+		s1.getDetails();
 
-		//print value
-		System.out.println("Id is : "+s1.id);
-		System.out.println("name is : "+s1.name);
-		System.out.println("sem is : "+s1.sem);
+		System.out.println("Student id is : "+s1.id);
+		System.out.println("Student Name is: "+s1.name);
+		System.out.println("Student Sem is : "+s1.sem);
 
 	}
 

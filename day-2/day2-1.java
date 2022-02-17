@@ -1,3 +1,10 @@
+/*
+
+    Objective : Simple Addition
+    Author : Umair
+    Date : 14-02-22
+
+*/
 class add{
 
 	public static void main(String[] args) {

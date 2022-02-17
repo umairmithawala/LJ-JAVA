@@ -1,3 +1,10 @@
+/*
+
+    Objective : Use outer label
+    Author : Umair
+    Date : 14-02-22
+
+*/
 class day2_5{
 
 	public static void main(String[] args) {

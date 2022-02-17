@@ -1,21 +1,34 @@
-// Constructor program 
-class cons{
+/*
 
-	int id,sem;
+    Objective : Store Value and Get Details with User
+    Author : Umair
+    Date : 14-02-22
 
-	//default cons
-	cons() {
+*/
+import java.util.Scanner;
+class Stud2{
 
-		id = 1;
-		sem = 2;
-
-	}
+	int id;
+	String name = new String();
+	int sem;
 
 	public static void main(String[] args) {
+			
+		Stud2 s1 = new  Stud2();
+		Stud2 s2 = new  Stud2();
+		Stud2 s3 = new  Stud2();
 
-		cons s1 = new cons();
+		
+		//input value by user
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter Id : ");
+     	s1.id = sc.nextInt();
+     	System.out.print("Enter Name : ");
+     	s1.name = sc.next();
 
-		System.out.println("S1 id is : "+s1.id);
+     	//output of user inputed value
+		System.out.println("Student id is : "+s1.id);
+		System.out.println("Student id Name : "+s1.name);
 
 	}
 

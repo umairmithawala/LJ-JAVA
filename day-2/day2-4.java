@@ -1,3 +1,10 @@
+/*
+
+    Objective : check with number is greater
+    Author : Umair
+    Date : 14-02-22
+
+*/
 class day2_4{
 
 	public static void main(String[] args) {

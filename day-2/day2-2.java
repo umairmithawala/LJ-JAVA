@@ -1,3 +1,10 @@
+/*
+
+    Objective : Addition with User Input
+    Author : Umair
+    Date : 14-02-22
+
+*/
 import java.util.Scanner;
 class add{
 

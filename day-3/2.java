@@ -1,21 +1,18 @@
-// Use of this... jumpuing another cons
-
 // Constructor program 
-class temp{
+class peracons{
 
-	int id;
-	int sem;
+	int id,sem;
 
-	
-	//pera cons 2
-	temp(int temp) {
+	//default cons
+	peracons() {
 
-		this(temp,temp);
+		id = 1;
+		sem = 2;
 
 	}
 
 	//pera cons
-	temp(int i, int s) {
+	peracons(int i, int s) {
 
 		id = i;
 		sem = s;
@@ -24,10 +21,10 @@ class temp{
 
 	public static void main(String[] args) {
 
-		temp s1 = new temp(2);
+		peracons s1 = new peracons(5,2);
 
 		System.out.println("S1 id is : "+s1.id);
-		System.out.println("S1 sem is : "+s1.sem);
+		System.out.println("S1 Sem is : "+s1.sem);
 
 	}
 
