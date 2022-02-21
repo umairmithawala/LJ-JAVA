@@ -1,4 +1,10 @@
-// initialize block
+/*
+
+    Objective : Initialize block
+    Author : Umair
+    Date : 14-02-22
+
+*/
 class Block{
 
 

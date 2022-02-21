@@ -1,4 +1,10 @@
-// Constructor program 
+/*
+
+    Objective : Perameterize Constructor
+    Author : Umair
+    Date : 14-02-22
+
+*/
 class peracons{
 
 	int id,sem;

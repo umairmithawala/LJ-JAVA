@@ -1,4 +1,10 @@
-//call by ref
+/*
+
+    Objective : call by refrence
+    Author : Umair
+    Date : 14-02-22
+
+*/
 class Test {
 
 	int no;

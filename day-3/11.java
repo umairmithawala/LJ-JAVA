@@ -1,4 +1,10 @@
-//garbage collection
+/*
+
+    Objective : garbege collection
+    Author : Umair
+    Date : 14-02-22
+
+*/
 
 class Test {
 

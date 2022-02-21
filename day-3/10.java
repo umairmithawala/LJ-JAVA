@@ -1,4 +1,10 @@
-//local variable pass by value -- call_by_value
+/*
+
+    Objective : local variable pass by value
+    Author : Umair
+    Date : 14-02-22
+
+*/
 class Test {
 
 	void fun(int no) //passing argument

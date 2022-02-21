@@ -1,4 +1,10 @@
-// passing obj as argument
+/*
+
+    Objective : Passing Obj to argument
+    Author : Umair
+    Date : 14-02-22
+
+*/
 
 class Test {
 

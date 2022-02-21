@@ -1,4 +1,10 @@
-// Copy Cons Program
+/*
+
+    Objective : Copy Constructor
+    Author : Umair
+    Date : 14-02-22
+
+*/
 
 // Constructor program 
 class temp{

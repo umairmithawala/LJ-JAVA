@@ -1,4 +1,10 @@
-// Use of this... jumpuing another cons
+/*
+
+    Objective : jumping Constructor
+    Author : Umair
+    Date : 14-02-22
+
+*/
 
 // Constructor program 
 class temp{

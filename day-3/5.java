@@ -1,4 +1,10 @@
-// passing argu to the method
+/*
+
+    Objective : Passing argu to method
+    Author : Umair
+    Date : 14-02-22
+
+*/
 // addition of two number
 
 class Test {
